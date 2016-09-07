@@ -1,4 +1,2 @@
-Git is a distributed version control system.
-Git is free software.
-Creating a new branch is quick AND simple.
+			基于node.js+express+mongodb的博客网站
 
